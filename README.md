@@ -6,7 +6,8 @@
 - I am working on my portfolio website and a pokémon counter-move guide.
 - I am looking for new ways to develop my programming skills!
 - 📫 How to reach me:
- email: cojullian@yahoo.com
+- email: cojullian@yahoo.com
+ or find me on LinkedIn!
  
  
 

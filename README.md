@@ -7,8 +7,7 @@
 - I am looking for new ways to develop my programming skills!
 - 📫 How to reach me:
 - email: cojullian@yahoo.com
- or find me on LinkedIn!
- 
+ or find me on LinkedIn: https://www.linkedin.com/in/jullian-raymund-co-096782245/
  
 
 <!---

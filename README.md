@@ -2,8 +2,7 @@
  
   I am a computer science student from the Uk. Here's some info about me!
 - 👀 I’m interested in Web Development, Graphic Design and Pokémon!
-- 🌱 I’m currently learning JS, CSS + HTML and 3D graphics
-- I am working on my portfolio website and a pokémon counter-move guide.
+- 🌱 I’m currently learning JS, PY, CSS, HTML and 3D graphics
 - I am looking for new ways to develop my programming skills!
 - 📫 How to reach me:
 - email: cojullian@yahoo.com
